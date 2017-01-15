@@ -1,9 +1,9 @@
 # Udacity Multi Blog Project
 
-Blog: https://udacity-multi-blog-project.appspot.com/
+Blog: https://udacity-blog-proj-155717.appspot.com/
 
 ###Steps to run
-1. Clone the project (git clone https://github.com/shivajivarma/udacity-multi-blog-project.git)
+1. Clone the project (git clone https://github.com/sai3010/multi-user-blog.git)
 2. Install google app engine
 3. Import the application into the laucher.
 4. Click on run button
